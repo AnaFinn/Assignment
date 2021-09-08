@@ -63,6 +63,7 @@ p{
 }
 
 /* Features Section */
+
 #features{
     padding: 3% 15% 0;
     background-color: #D1E6EE;
@@ -118,7 +119,7 @@ p{
 /* Call to Action */
 
 #cta{
-    background-color: #D1E6EE;
+    background-color: #7D97A1;
     padding: 2% 30%;
     text-align: center;
     color: #042121;
@@ -151,12 +152,14 @@ p{
 #footer{
     background-color: #042121;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
 }
 
 
 /* About Page */
 /* Title */
 #title-about{
+    font-family: 'Open Sans', sans-serif;
     background-color: #FFFFFF;
     color: #042121;
 }
@@ -171,6 +174,8 @@ p{
 }
 .button-options{
     margin: 5% 3% 5% 0;
+    font-family: 'Open Sans', sans-serif;
+
 }
 /* About Text */
 #text-about-1{
